@@ -74,7 +74,8 @@ Add a new code cell just after the **Run ComfyUI with localtunnel (Recommended W
 
 # download all models
 !python custom_nodes/comfy_mtb/scripts/download_models.py -y
-
+# download all models for ComfyUI windows portable
+![5jtMOriMos](https://github.com/melMass/comfy_mtb/assets/21185218/d8599290-546f-48c8-8742-258053d09d75)
 # install the dependencies
 !pip install -r custom_nodes/comfy_mtb/reqs.txt -f https://download.openmmlab.com/mmcv/dist/cu118/torch2.0/index.html
 ```
